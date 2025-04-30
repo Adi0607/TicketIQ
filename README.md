@@ -11,14 +11,13 @@ Features
 
 📄 Automated PDF report generation
 
-🖥️ Optional Streamlit dashboard for easy access
+
 
 Tech Stack
 Backend: Java (Spring Boot), MongoDB
 
 Analysis: Python, Google Generative AI
 
-UI: Streamlit (optional)
 
 Project Structure
 
